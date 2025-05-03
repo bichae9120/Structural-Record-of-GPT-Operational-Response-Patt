@@ -1,4 +1,4 @@
-# Structural-Record-of-GPT-Operational-Response-Patt
+# Structural-Record-of-GPT-Operational-Response-Patterns
 This document provides a technical summary of response patterns
 observed in the output structure of OpenAI’s conversational AI system (GPT-4o),
 based on autonomously generated descriptions by the model itself.
